@@ -30,7 +30,7 @@ assignmnet 2
 3) The thirs step was to write a prediction function for one vs all which was a task to create a function PREDICTONEVSALL(all_theta, X) will return a vector of predictions for each example in the matrix X
 4) the final part was to create a function Predict which will return the label of an input given a trained neural network
 
-#### Implement backpropagation algorithm for neural networks 
+#### Assignment 4: Implement backpropagation algorithm for neural networks 
 
 1) In this assignment, we first found out the feedforward parameters
 for finding out the cost function. We then found out unregularized version of the same.
