@@ -48,4 +48,20 @@ whichis used for the bias term.
 
 # Assignment 5: Regularized Linear Regression and Bias/Variance
 
-The first task was to calculate the cost function and gradient for linear regression with regularization
+1)The first task was to calculate the cost function and gradient for linear regression with regularization.
+
+2)the secod task was to plot learning curves basically curve between regularization paramter lambda and cost function. 
+
+3) the next step was to use polynomial features to fit data that was underfitting using linear terms
+
+4) The last step was selecting λ using a cross validation se
+
+# Assignment 6 Support vector machines
+
+1) Implement gausian kernel
+
+2) Find values of regularization(C and sigma^2) that best fit
+
+3) Process email string from given data to map the data and create an array if a set of words occur in the email.
+
+4) Generating feature vector of the email set given word Indices.
