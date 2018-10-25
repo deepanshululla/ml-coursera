@@ -46,7 +46,7 @@ After you have successfully implemeted the backpropagation algorithm, you will  
 whichis used for the bias term.
 
 
-# Assignment 5: Regularized Linear Regression and Bias/Variance
+#### Assignment 5: Regularized Linear Regression and Bias/Variance
 
 1)The first task was to calculate the cost function and gradient for linear regression with regularization.
 
@@ -56,7 +56,7 @@ whichis used for the bias term.
 
 4) The last step was selecting λ using a cross validation se
 
-# Assignment 6 Support vector machines
+#### Assignment 6 Support vector machines
 
 1) Implement gausian kernel
 
