@@ -65,3 +65,6 @@ whichis used for the bias term.
 3) Process email string from given data to map the data and create an array if a set of words occur in the email.
 
 4) Generating feature vector of the email set given word Indices.
+
+#### K-means Clustering and Principal Component Analysis
+
