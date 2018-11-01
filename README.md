@@ -66,5 +66,8 @@ whichis used for the bias term.
 
 4) Generating feature vector of the email set given word Indices.
 
-#### K-means Clustering and Principal Component Analysis
+#### Assignment 7: K-means Clustering and Principal Component Analysis
+
+#### Assignment 8: Anomaly Detection and Recommendation systems
+
 
